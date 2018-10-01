@@ -1,2 +1,1 @@
-# face-recognition
-# face-recognition
+Real time Face recognition using Neural network.
